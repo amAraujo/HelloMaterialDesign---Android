@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloMaterial</string>
+    <string name="hello_word">Hello Word</string>
+    <string name="ok1">Ok 1</string>
+    <string name="ok2">ok 2</string>
+    <string name="ok3">ok 3</string>
+    <string name="ok4">ok 4</string>
+    <string name="Ripple">Ripple</string>
+    <string name="elevacao_view">Elevação de View</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="card_view">CardView</string>
+    <string name="efeito_revelacao">Efeito de Revelação</string>
+    <string name="recycler_view">RecyclerView</string>
+</resources>
